@@ -5,7 +5,7 @@ abstract class Animal {
         System.out.println("An animal is created.");
     }
 
-    // Abstract methods
+    // Abstract method
     abstract void makeSound();
     abstract void eat();
 }
